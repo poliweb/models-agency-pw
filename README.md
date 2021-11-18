@@ -1,8 +1,8 @@
 # model-agency 🎎
 
-<div><img src="https://res.cloudinary.com/poliweb/image/upload/v1637236828/Fashen/model-agency_ir03ci.webp" width="400"></div>
+<div><img src="https://res.cloudinary.com/poliweb/image/upload/v1637236828/Fashen/model-agency_ir03ci.webp" width="100%"></div>
 
-## Build Setup
+## Build Setup 💻
 
 ```bash
 # install dependencies
