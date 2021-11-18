@@ -1,0 +1,30 @@
+{
+  "name": "model-agency",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxt/content": "^1.14.0",
+    "@nuxtjs/axios": "^5.13.6",
+    "@nuxtjs/pwa": "^3.3.5",
+    "@nuxtjs/svg": "^0.3.0",
+    "animate.css": "^4.1.1",
+    "core-js": "^3.15.1",
+    "nuxt": "^2.15.7",
+    "v-owl-carousel": "^1.0.8",
+    "vue-agile": "^1.1.3"
+  },
+  "devDependencies": {
+    "@nuxt/image": "^0.6.0",
+    "@nuxtjs/color-mode": "^2.1.1",
+    "@nuxtjs/google-fonts": "^1.3.0",
+    "@nuxtjs/tailwindcss": "^4.2.0",
+    "nuxt-gsap-module": "^1.5.0",
+    "postcss": "^8.3.5"
+  }
+}
