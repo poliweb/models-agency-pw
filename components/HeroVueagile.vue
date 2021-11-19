@@ -4,7 +4,7 @@
       <!-- ==================================== -->
       <div class="slide relative">
         <img src="https://res.cloudinary.com/poliweb/image/upload/c_fill,g_face:auto,h_850,w_1920/v1636094398/Fashen/girl-3_1920_cy4dnl.webp" alt="blog.alt" class="absolute h-full w-full object-cover z-0" />
-        <!-- Content -->
+        <!-- Content 1 -->
         <div class="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
           <div
             class="slide-content z-10 lg:flex-grow lg:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center"
@@ -30,7 +30,9 @@
         <div class="masck"></div>
       </div>
       <!-- ==================================== -->
-      <div class="slide relative bg-slide2">
+      <div class="slide relative">
+         <img src="https://res.cloudinary.com/poliweb/image/upload/v1636955920/HeroCarousel/slide-girl-face3_b9tbjk.webp" alt="blog.alt" class="absolute h-full w-full object-cover z-0" />
+        <!-- Content 2 -->
         <div class="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
           <div
             class="slide-content z-10 lg:flex-grow lg:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center"
@@ -52,10 +54,13 @@
           </div>
           <div class="lg:w-1/2"></div>
         </div>
+        <!-- //Content 2 -->
         <div class="masck"></div>
       </div>
       <!-- ==================================== -->
-      <div class="slide relative bg-slide3">
+      <div class="slide relative">
+         <img src="https://res.cloudinary.com/poliweb/image/upload/c_fill,g_north_east,h_850,w_1920,y_0/v1636903091/HeroCarousel/young-woman_1920_kfi4s5.jpg" alt="blog.alt" class="absolute h-full w-full object-cover z-0" />
+        <!-- Content 3 -->
         <div class="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
           <div
             class="slide-content z-10 lg:flex-grow lg:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center"
@@ -77,10 +82,13 @@
           </div>
           <div class="lg:w-1/2"></div>
         </div>
+        <!-- //Content 3 -->
         <div class="masck"></div>
       </div>
       <!-- ==================================== -->
-      <div class="slide relative bg-slide4">
+      <div class="slide relative">
+        <img src="https://res.cloudinary.com/poliweb/image/upload/v1636955920/HeroCarousel/slide-girl-face2_lwgpha.webp" alt="blog.alt" class="absolute h-full w-full object-cover z-0" />
+        <!-- Content 4 -->
         <div class="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
           <div
             class="slide-content z-10 lg:flex-grow lg:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center"
@@ -102,6 +110,7 @@
           </div>
           <div class="lg:w-1/2"></div>
         </div>
+        <!-- //Content 4 -->
         <div class="masck"></div>
       </div>
       <!-- ==================================== -->
