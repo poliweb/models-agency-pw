@@ -27,6 +27,28 @@ export default {
 </script>
 
 <style>
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+body {
+  font-family: "Roboto", Montserrat, sans-serif;
+  overflow-x: hidden;
+  position: relative;
+  background-color: var(--bg);
+  color: var(--color);
+  transition: background-color 0.3s;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: Montserrat;
+}
 p {
   padding: 20px 0;
   margin: 0;
