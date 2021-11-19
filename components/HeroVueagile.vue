@@ -2,7 +2,8 @@
   <client-only placeholder="Loading...">
     <agile :autoplay="true" :autoplaySpeed="5000">
       <!-- ==================================== -->
-      <div class="slide relative bg-slide1">
+      <div class="slide relative">
+        <img src="https://res.cloudinary.com/poliweb/image/upload/c_fill,g_face:auto,h_850,w_1920/v1636094398/Fashen/girl-3_1920_cy4dnl.webp" alt="blog.alt" class="absolute h-full w-full object-cover z-0" />
         <!-- Content -->
         <div class="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
           <div
@@ -139,7 +140,7 @@ export default {};
   right: 0;
   background-color: var(--bg-masck);
   height: 100%;
-  z-index: -1;
+  z-index: 2;
   transition: background-color 0.3s;
   color: #111812a1;
 }
