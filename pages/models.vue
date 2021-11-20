@@ -105,9 +105,9 @@ export default {
         },
         {
           img: "https://res.cloudinary.com/poliweb/image/upload/c_fill,g_center,w_800/v1636821258/Fashen/Girls/girl-21_1920_yjak8b.webp",
-          title: "Amber West",
+          title: "Margaret Taylor",
           Born: "October 8, 1998",
-          Height: "165 cm / 5’41",
+          Height: "178 cm / 5’83",
           Hair: "Rude",
         },
         {
