@@ -21,7 +21,7 @@
       <div class="container px-5 py-24 mx-auto">
         <!-- Title Section -->
         <div class="flex flex-col text-center w-full mb-20">
-          <h3 class="title-color sm:text-3xl md:text-4xl title-font font-semibold mb-8">Models</h3>
+          <h3 class="title-color text-3xl md:text-4xl title-font font-semibold mb-8">Models</h3>
           <p
             class="lg:w-2/4 mx-auto leading-relaxed text-base"
           >Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical gentrify, subway tile poke farm-to-table. Franzen you probably haven't heard of them.</p>

@@ -17,7 +17,7 @@
           <div class="md:w-2/4 px-5">
             <h2 class="text-sm title-font tracking-widest mb-7 uppercase">brand name</h2>
             <h1
-              class="title-color sm:text-3xl md:text-4xl title-font font-semibold mb-8"
+              class="title-color text-3xl md:text-4xl title-font font-semibold mb-8"
             >The Catcher in the Rye</h1>
             <div class="flex flex-col md:flex-row h-full md:h-40">
               <img
@@ -86,7 +86,7 @@
           <h2
             class="text-xs tracking-widest font-medium title-font mb-1 text-white uppercase"
           >ROOF PARTY POLAROID</h2>
-          <h1 class="title-dark sm:text-3xl md:text-4xl font-semibold title-font">Hotly Featured</h1>
+          <h1 class="title-dark text-3xl md:text-4xl font-semibold title-font">Hotly Featured</h1>
         </div>
         <div class="flex flex-wrap -m-4 max-w-6xl mx-auto">
           <div class="p-4 lg:w-1/4 md:w-1/2">
@@ -186,7 +186,7 @@
               class="tracking-widest text-xs title-font font-bold mb-1 uppercase"
             >fashion category</span>
             <h3
-              class="title-color sm:text-3xl md:text-4xl title-font font-semibold mb-3"
+              class="title-color text-3xl md:text-4xl title-font font-semibold mb-3"
             >The Catalyzer</h3>
             <p class="leading-relaxed mb-3">
               Photo booth fam kinfolk cold-pressed sriracha leggings jianbing
@@ -271,7 +271,7 @@
           class="lg:flex-grow md:w-1/2 lg:pl-24 md:pl-16 flex flex-col md:items-start md:text-left items-center text-center"
         >
           <h2
-            class="title-color sm:text-3xl md:text-4xl title-font font-semibold mb-3"
+            class="title-color text-3xl md:text-4xl title-font font-semibold mb-3"
           >Leave your application<br/> for a modeling agency</h2>
           <p
             class="mb-8 leading-relaxed"
