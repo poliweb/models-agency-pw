@@ -29,13 +29,17 @@
         <!-- //Title Section -->
         <!-- Block Items -->
         <div class="flex flex-wrap -m-4 max-w-6xl mx-auto gap-y-6">
-          <div v-for="itemsFmodel of itemsFmodels" :key="itemsFmodel.index" class="p-4 lg:w-1/4 md:w-1/2">
+          <div v-for="itemsFmodel of itemsFmodels" :key="itemsFmodel.index" class="p-4 lg:w-1/4 md:w-1/2 items__models">
             <div class="h-full flex flex-col items-center text-left">
-              <img decoding="async" width="600" height="600"
+              <!-- Foto -->
+              <div class="overflow-hidden">
+                <img decoding="async" width="600" height="600"
                 alt="team"
-                class="flex-shrink-0 rounded w-full h-56 object-cover object-center mb-4"
+                class="flex-shrink-0 rounded w-full h-56 object-cover object-center mb-4 items__models-img"
                 :src="itemsFmodel.img"
               />
+              </div>
+              <!-- //Foto -->
               <div class="w-full">
                 <h3 class="title-color title-font font-semibold text-2xl leading-10 mb-5">{{itemsFmodel.title}}</h3>
                 <ul class="mb-2">
@@ -104,7 +108,7 @@ export default {
           title: "Amber West",
           Born: "October 8, 1998",
           Height: "165 cm / 5’41",
-          Hair: "Brown",
+          Hair: "Rude",
         },
         {
           img: "https://res.cloudinary.com/poliweb/image/upload/c_fill,g_north,h_800,w_800/v1636819435/Fashen/Girls/girl-14_1920_npum8o.webp",
@@ -147,5 +151,13 @@ export default {
 
 .arrow__color {
   color: var(--btn-border-black);
+}
+
+.items__models-img {
+  transition: all 0.5s ease-in-out;
+}
+
+.items__models:hover .items__models-img {
+  transform: scale(1.3);
 }
 </style>
