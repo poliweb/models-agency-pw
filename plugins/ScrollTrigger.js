@@ -1,3 +1,4 @@
+// https://www.npmjs.com/package/nuxt-gsap-module
 import {
   gsap
 } from "gsap";

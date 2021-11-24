@@ -33,6 +33,7 @@ export default {
   css: [
     '@/assets/main.css',
     'animate.css',
+    '@fancyapps/ui/dist/fancybox.css',
   ],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
@@ -47,7 +48,13 @@ export default {
     },
 
     {
+      // https://github.com/ivodolenc/nuxt-gsap-module#readme
       src: '~/plugins/ScrollTrigger.js',
+      mode: 'client'
+    },
+    {
+      // https://fancyapps.com/docs/ui/installation
+      src: '~/plugins/FancyApps.js',
       mode: 'client'
     },
   ],

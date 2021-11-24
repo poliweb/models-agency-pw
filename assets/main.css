@@ -13,6 +13,9 @@
   --btn-border-black: #161616;
   --btn-border-white: #fff;
   --bg-masck: #16161667;
+  --arrow-bg-black: #d1bd6c;
+  --color-hr-black: #9ca3af;
+  --color-text-bg-black: #9ca3af;
 }
 
 .dark-mode {
@@ -30,6 +33,8 @@
   --btn-border-black: #d1bd6c;
   --btn-border-white: #d1bd6c;
   --bg-masck: #111812a1;
+  --arrow-bg-black: #d1bd6c;
+  --color-hr-black: #d1bd6c;
 }
 .sepia-mode {
   --color: #433422;
@@ -40,5 +45,10 @@
   --btn-border-black: #433422;
   --btn-border-white: #fff;
   --title-color: #504231;
+  --title-dark-color: #ded0bf;
   --bg-masck: #43342287;
+  --arrow-bg-black: #ded0bf;
+  --color-hr-black: #ded0bf;
+  --color-text-bg-black: #f1e7d0;
+  --title-featured-color: #ded0bf;
 }

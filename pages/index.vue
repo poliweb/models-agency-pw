@@ -98,8 +98,8 @@
               />
               <div class="w-full">
                 <h2 class="title-font font-semibold text-2xl title-featured">Alper Kamu</h2>
-                <h3 class="text-gray-400 mb-3">Height 180 cm</h3>
-                <p class="mb-4 text-featured">
+                <h3 class="text-bg-black mb-3">Height 180 cm</h3>
+                <p class="mb-4 text-bg-black">
                   DIY tote bag drinking vinegar cronut adaptogen squid fanny
                   pack vaporware.
                 </p>
@@ -119,8 +119,8 @@
               />
               <div class="w-full">
                 <h2 class="title-font font-semibold text-2xl title-featured">Eric Moore</h2>
-                <h3 class="text-gray-500 mb-3">Height 185 cm</h3>
-                <p class="mb-4 text-featured">
+                <h3 class="text-bg-black mb-3">Height 185 cm</h3>
+                <p class="mb-4 text-bg-black">
                   DIY tote bag drinking vinegar cronut adaptogen squid fanny
                   pack vaporware.
                 </p>
@@ -140,8 +140,8 @@
               />
               <div class="w-full">
                 <h2 class="title-font font-semibold text-2xl title-featured">Margaret Taylor</h2>
-                <h3 class="text-gray-500 mb-3">Height 178 cm</h3>
-                <p class="mb-4 text-featured">
+                <h3 class="text-bg-black mb-3">Height 178 cm</h3>
+                <p class="mb-4 text-bg-black">
                   DIY tote bag drinking vinegar cronut adaptogen squid fanny
                   pack vaporware.
                 </p>
@@ -161,8 +161,8 @@
               />
               <div class="w-full">
                 <h2 class="title-font font-semibold text-2xl title-featured">Katrin Krauze</h2>
-                <h3 class="text-gray-500 mb-3">Height 182 cm</h3>
-                <p class="mb-4 text-featured">
+                <h3 class="text-bg-black mb-3">Height 182 cm</h3>
+                <p class="mb-4 text-bg-black">
                   DIY tote bag drinking vinegar cronut adaptogen squid fanny
                   pack vaporware.
                 </p>
