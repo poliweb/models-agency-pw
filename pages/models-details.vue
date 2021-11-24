@@ -88,97 +88,82 @@
             </ul>
           </div>
           <div class="sm:w-full md:w-1/3 p-0 md:p-5">
-            <a
-              data-fancybox="gallery"
-              data-src="https://res.cloudinary.com/poliweb/image/upload/c_fill,g_north,h_800,w_800/v1637637498/Fashen/Girls/woman-7_1920_tabm2n.webp"
-              data-caption="Optional caption,&lt;br /&gt;that can contain &lt;em&gt;HTML&lt;/em&gt; code"
-            >
-              <img
-                src="https://res.cloudinary.com/poliweb/image/upload/c_fill,g_north,h_600,w_600/v1637637498/Fashen/Girls/woman-7_1920_tabm2n.webp"
-                alt
-                class="mb-10"
-              />
-            </a>
-            <a
-              data-fancybox="gallery"
-              data-src="https://res.cloudinary.com/poliweb/image/upload/c_fill,g_face:center,h_800,w_800/v1636094397/Fashen/girl_1920_iwvucn.webp"
-              data-caption="Optional caption,&lt;br /&gt;that can contain &lt;em&gt;HTML&lt;/em&gt; code"
-            >
-              <img
-                src="https://res.cloudinary.com/poliweb/image/upload/c_fill,g_face:center,h_600,w_600/v1636094397/Fashen/girl_1920_iwvucn.webp"
-                alt
-                class
-              />
-            </a>
+            <div class="overflow-hidden model-img mb-10">
+              <a
+                data-fancybox="gallery"
+                data-src="https://res.cloudinary.com/poliweb/image/upload/c_fill,g_north,h_800,w_800/v1637637498/Fashen/Girls/woman-7_1920_tabm2n.webp"
+                data-caption="Optional caption,&lt;br /&gt;that can contain &lt;em&gt;HTML&lt;/em&gt; code"
+              >
+                <img
+                  src="https://res.cloudinary.com/poliweb/image/upload/c_fill,g_north,h_600,w_600/v1637637498/Fashen/Girls/woman-7_1920_tabm2n.webp"
+                  alt
+                />
+              </a>
+            </div>
+            <div class="overflow-hidden model-img">
+              <a
+                data-fancybox="gallery"
+                data-src="https://res.cloudinary.com/poliweb/image/upload/c_fill,g_face:center,h_800,w_800/v1636094397/Fashen/girl_1920_iwvucn.webp"
+                data-caption="Optional caption,&lt;br /&gt;that can contain &lt;em&gt;HTML&lt;/em&gt; code"
+              >
+                <img
+                  src="https://res.cloudinary.com/poliweb/image/upload/c_fill,g_face:center,h_600,w_600/v1636094397/Fashen/girl_1920_iwvucn.webp"
+                  alt
+                />
+              </a>
+            </div>
           </div>
           <div class="sm:w-full md:w-1/3 p-0 md:p-5">
-            <a
-              data-fancybox="gallery"
-              data-src="https://res.cloudinary.com/poliweb/image/upload/c_fill,g_face:center,h_800,w_800/v1637640701/Fashen/Girls/woman-8_1920_s1yctu.webp"
-              data-caption="Optional caption,&lt;br /&gt;that can contain &lt;em&gt;HTML&lt;/em&gt; code"
-            >
-              <img
-                src="https://res.cloudinary.com/poliweb/image/upload/c_fill,g_face:center,h_600,w_600/v1637640701/Fashen/Girls/woman-8_1920_s1yctu.webp"
-                alt
-                class="mb-10"
-              />
-            </a>
-            <a
-              data-fancybox="gallery"
-              data-src="https://res.cloudinary.com/poliweb/image/upload/c_fill,g_face:center,h_800,w_800/v1637640701/Fashen/Girls/woman-9_1920_dqq00g.webp"
-              data-caption="Optional caption,&lt;br /&gt;that can contain &lt;em&gt;HTML&lt;/em&gt; code"
-            >
-              <img
-                src="https://res.cloudinary.com/poliweb/image/upload/c_fill,g_face:center,h_600,w_600/v1637640701/Fashen/Girls/woman-9_1920_dqq00g.webp"
-                alt
-                class
-              />
-            </a>
+            <div class="overflow-hidden model-img mb-10">
+              <a
+                data-fancybox="gallery"
+                data-src="https://res.cloudinary.com/poliweb/image/upload/c_fill,g_face:center,h_800,w_800/v1637640701/Fashen/Girls/woman-8_1920_s1yctu.webp"
+                data-caption="Optional caption,&lt;br /&gt;that can contain &lt;em&gt;HTML&lt;/em&gt; code"
+              >
+                <img
+                  src="https://res.cloudinary.com/poliweb/image/upload/c_fill,g_face:center,h_600,w_600/v1637640701/Fashen/Girls/woman-8_1920_s1yctu.webp"
+                  alt
+                />
+              </a>
+            </div>
+            <div class="overflow-hidden model-img">
+              <a
+                data-fancybox="gallery"
+                data-src="https://res.cloudinary.com/poliweb/image/upload/c_fill,g_face:center,h_800,w_800/v1637640701/Fashen/Girls/woman-9_1920_dqq00g.webp"
+                data-caption="Optional caption,&lt;br /&gt;that can contain &lt;em&gt;HTML&lt;/em&gt; code"
+              >
+                <img
+                  src="https://res.cloudinary.com/poliweb/image/upload/c_fill,g_face:center,h_600,w_600/v1637640701/Fashen/Girls/woman-9_1920_dqq00g.webp"
+                  alt
+                />
+              </a>
+            </div>
           </div>
         </div>
       </div>
     </section>
     <section class="body-font">
       <div class="px-0 md:px-5 py-24 mx-auto max-w-6xl">
-        <client-only placeholder="Loading...">
-          <agile :autoplay="true" :autoplaySpeed="5000">
-            <div>
-              <img
-                src="https://res.cloudinary.com/poliweb/image/upload/c_fill,g_north,h_600,w_1152/v1637637498/Fashen/Girls/woman-7_1920_tabm2n.webp"
-                alt
-                class
-              />
-            </div>
-            <div>
-              <img
-                src="https://res.cloudinary.com/poliweb/image/upload/c_fill,g_face:center,h_600,w_1152/v1636094397/Fashen/girl_1920_iwvucn.webp"
-                alt
-                class
-              />
-            </div>
-            <div>
-              <img
-                src="https://res.cloudinary.com/poliweb/image/upload/c_fill,g_face:center,h_600,w_1152/v1637640701/Fashen/Girls/woman-8_1920_s1yctu.webp"
-                alt
-                class
-              />
-            </div>
-            <div>
-              <img
-                src="https://res.cloudinary.com/poliweb/image/upload/c_fill,g_face:center,h_600,w_1152/v1637640701/Fashen/Girls/woman-9_1920_dqq00g.webp"
-                alt
-                class
-              />
-            </div>
-            <!-- Button PREV and NEXT -->
-            <template slot="prevButton">
-              <button class="prev">&#10094;</button>
-            </template>
-            <template slot="nextButton">
-              <button class="next">&#10095;</button>
-            </template>
-          </agile>
-        </client-only>
+        <div class="flex flex-wrap gap-5 justify-center">
+          <a data-fancybox-trigger="gallery-b" href="javascript:;">
+            <img class="rounded" src="https://res.cloudinary.com/poliweb/image/upload/c_fill,g_north,h_600,w_1152/v1637637498/Fashen/Girls/woman-7_1920_tabm2n.webp" />
+          </a>
+          <a data-fancybox="gallery-b" href="https://res.cloudinary.com/poliweb/image/upload/c_fill,g_north,h_800,w_1536/v1637637498/Fashen/Girls/woman-7_1920_tabm2n.webp">
+            <img class="rounded" src="https://res.cloudinary.com/poliweb/image/upload/c_fill,g_north,h_80,w_120/v1637637498/Fashen/Girls/woman-7_1920_tabm2n.webp" />
+          </a>
+          <a data-fancybox="gallery-b" href="https://res.cloudinary.com/poliweb/image/upload/c_fill,g_face:center,h_800,w_1536/v1636094397/Fashen/girl_1920_iwvucn.webp">
+            <img class="rounded" src="https://res.cloudinary.com/poliweb/image/upload/c_fill,g_face:center,h_80,w_120/v1636094397/Fashen/girl_1920_iwvucn.webp" />
+          </a>
+          <a data-fancybox="gallery-b" href="https://res.cloudinary.com/poliweb/image/upload/c_fill,g_face:center,h_800,w_1536/v1637640701/Fashen/Girls/woman-8_1920_s1yctu.webp">
+            <img class="rounded" src="https://res.cloudinary.com/poliweb/image/upload/c_fill,g_face:center,h_80,w_120/v1637640701/Fashen/Girls/woman-8_1920_s1yctu.webp" />
+          </a>
+          <a data-fancybox="gallery-b" href="https://res.cloudinary.com/poliweb/image/upload/c_fill,g_face:center,h_800,w_1536/v1637640701/Fashen/Girls/woman-9_1920_dqq00g.webp">
+            <img class="rounded" src="https://res.cloudinary.com/poliweb/image/upload/c_fill,g_face:center,h_80,w_120/v1637640701/Fashen/Girls/woman-9_1920_dqq00g.webp" />
+          </a>
+          <a data-fancybox="gallery-b" href="https://res.cloudinary.com/poliweb/image/upload/g_face:center/v1636094394/Fashen/three-woman_1920_cew4se.webp">
+            <img class="rounded" src="https://res.cloudinary.com/poliweb/image/upload/c_fill,g_face:center,h_80,w_120/v1636094394/Fashen/three-woman_1920_cew4se.webp" />
+          </a>
+        </div>
       </div>
     </section>
   </div>
@@ -204,5 +189,13 @@ export default {
 
 .text-bg-black {
   color: var(--color-text-bg-black);
+}
+
+.model-img img {
+  transition: all 0.5s ease-in-out;
+}
+
+.model-img:hover img {
+  transform: scale(1.3);
 }
 </style>

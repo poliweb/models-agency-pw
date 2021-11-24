@@ -15,21 +15,30 @@
         1920: { items: 4, nav: true }
       }"
     >
-      <img src="https://res.cloudinary.com/poliweb/image/upload/c_fill,h_420/v1636871720/Fashen/Girls/girl-22_1920_fqc7rh.webp" />
-
-      <img src="https://res.cloudinary.com/poliweb/image/upload/c_fill,h_420,w_420/v1636880038/Fashen/Carousel/fashion-3080644_960_720_v2uusn.jpg" />
-
+      <a data-fancybox="gallery" data-src="https://res.cloudinary.com/poliweb/image/upload/v1636871720/Fashen/Girls/girl-22_1920_fqc7rh.webp">
+        <img src="https://res.cloudinary.com/poliweb/image/upload/c_fill,h_420/v1636871720/Fashen/Girls/girl-22_1920_fqc7rh.webp"/>
+      </a>
+      <a data-fancybox="gallery" data-src="https://res.cloudinary.com/poliweb/image/upload/c_scale,w_1520/v1636880038/Fashen/Carousel/fashion-3080644_960_720_v2uusn.webp">
+        <img src="https://res.cloudinary.com/poliweb/image/upload/c_fill,h_420,w_420/v1636880038/Fashen/Carousel/fashion-3080644_960_720_v2uusn.jpg"/>
+      </a>
+      <a data-fancybox="gallery" data-src="https://res.cloudinary.com/poliweb/image/upload/c_scale,w_1920/v1636879225/Fashen/Carousel/woman-1274056_960_720_ng2cju.webp">
       <img src="https://res.cloudinary.com/poliweb/image/upload/c_fill,h_420,w_420/v1636879225/Fashen/Carousel/woman-1274056_960_720_ng2cju.jpg" />
-
+      </a>
+      <a data-fancybox="gallery" data-src="https://res.cloudinary.com/poliweb/image/upload/v1636880351/Fashen/Carousel/woman-1867093_960_720_qwbmzp.webp">
       <img src="https://res.cloudinary.com/poliweb/image/upload/c_fill,h_420,w_420/v1636880351/Fashen/Carousel/woman-1867093_960_720_qwbmzp.jpg" />
-
+      </a>
+      <a data-fancybox="gallery" data-src="https://res.cloudinary.com/poliweb/image/upload/v1636879140/Fashen/Carousel/man-1866574_960_720_uxfpki.webp">
       <img src="https://res.cloudinary.com/poliweb/image/upload/c_fill,h_420,w_420/v1636879140/Fashen/Carousel/man-1866574_960_720_uxfpki.jpg" />
-
+      </a>
+      <a data-fancybox="gallery" data-src="https://res.cloudinary.com/poliweb/image/upload/v1636879048/Fashen/Carousel/woman-97088_960_720_yiwpyw.webp">
       <img src="https://res.cloudinary.com/poliweb/image/upload/c_fill,h_420,w_420/v1636879048/Fashen/Carousel/woman-97088_960_720_yiwpyw.jpg" />
-
+      </a>
+      <a data-fancybox="gallery" data-src="https://res.cloudinary.com/poliweb/image/upload/v1636879109/Fashen/Carousel/man-1283231_960_720_zeyyoq.webp">
       <img src="https://res.cloudinary.com/poliweb/image/upload/c_fill,h_420,w_420/v1636879109/Fashen/Carousel/man-1283231_960_720_zeyyoq.webp" />
-
+      </a>
+      <a data-fancybox="gallery" data-src="https://res.cloudinary.com/poliweb/image/upload/v1636879016/Fashen/Carousel/musician-664432_960_720_ghku5x.webp">
       <img src="https://res.cloudinary.com/poliweb/image/upload/c_fill,h_420,w_420/v1636879016/Fashen/Carousel/musician-664432_960_720_ghku5x.webp" />
+      </a>
     </carousel>
   </client-only>
 </div>
