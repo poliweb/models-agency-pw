@@ -162,7 +162,7 @@
               />
             </a>
           </div>
-          <div class="overflow-hidden model-img">
+          <div class="overflow-hidden model-img rounded">
             <a
               data-fancybox="gallery-b"
               href="https://res.cloudinary.com/poliweb/image/upload/c_fill,g_north,h_800,w_1536/v1637637498/Fashen/Girls/woman-7_1920_tabm2n.webp"
@@ -173,7 +173,7 @@
               />
             </a>
           </div>
-          <div class="overflow-hidden model-img">
+          <div class="overflow-hidden model-img rounded">
             <a
               data-fancybox="gallery-b"
               href="https://res.cloudinary.com/poliweb/image/upload/c_fill,g_face:center,h_800,w_1536/v1636094397/Fashen/girl_1920_iwvucn.webp"
@@ -184,7 +184,7 @@
               />
             </a>
           </div>
-          <div class="overflow-hidden model-img">
+          <div class="overflow-hidden model-img rounded">
             <a
               data-fancybox="gallery-b"
               href="https://res.cloudinary.com/poliweb/image/upload/c_fill,g_face:center,h_800,w_1536/v1637640701/Fashen/Girls/woman-8_1920_s1yctu.webp"
@@ -195,7 +195,7 @@
               />
             </a>
           </div>
-          <div class="overflow-hidden model-img">
+          <div class="overflow-hidden model-img rounded">
             <a
               data-fancybox="gallery-b"
               href="https://res.cloudinary.com/poliweb/image/upload/c_fill,g_face:center,h_800,w_1536/v1637640701/Fashen/Girls/woman-9_1920_dqq00g.webp"
@@ -206,7 +206,7 @@
               />
             </a>
           </div>
-          <div class="overflow-hidden model-img">
+          <div class="overflow-hidden model-img rounded">
             <a
               data-fancybox="gallery-b"
               href="https://res.cloudinary.com/poliweb/image/upload/g_face:center/v1636094394/Fashen/three-woman_1920_cew4se.webp"
