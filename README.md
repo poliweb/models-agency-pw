@@ -2,6 +2,8 @@
 
 <div><img src="https://res.cloudinary.com/poliweb/image/upload/v1637236828/Fashen/model-agency_ir03ci.webp" width="100%"></div>
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0df3259a-12c8-41cf-93af-84ac83109276/deploy-status)](https://app.netlify.com/sites/pw-model-agency/deploys)
+
 ## Build Setup 💻 💾
 
 ```bash
