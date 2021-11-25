@@ -16,7 +16,7 @@
       </div>
     </div>
     <!-- //Header page -->
-    <!-- Content page -->
+    <!-- Models items page -->
     <section class="body-font">
       <div class="container px-5 py-24 mx-auto">
         <!-- Title Section -->
@@ -32,10 +32,10 @@
           <div v-for="itemsFmodel of itemsFmodels" :key="itemsFmodel.index" class="p-4 lg:w-1/4 md:w-1/2 items__models">
             <div class="h-full flex flex-col items-center text-left">
               <!-- Foto -->
-              <div class="overflow-hidden">
+              <div class="overflow-hidden mb-4">
                 <img decoding="async" width="600" height="600"
                 alt="team"
-                class="flex-shrink-0 rounded w-full h-56 object-cover object-center mb-4 items__models-img"
+                class="flex-shrink-0 w-full h-56 object-cover object-center items__models-img"
                 :src="itemsFmodel.img"
               />
               </div>
@@ -56,6 +56,10 @@
         <!-- //Block Items -->
       </div>
     </section>
+    <!-- //Models items page -->
+    <!-- Leave your application EmailSend for a modeling agency -->
+    <EmailSend/>
+    <!-- //Leave your application EmailSend for a modeling agency -->
   </div>
 </template>
 
