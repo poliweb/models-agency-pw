@@ -54,7 +54,7 @@
       <div class="container px-5 py-24 mx-auto">
         <div class="flex flex-col md:flex-row max-w-6xl mx-auto">
           <div class="sm:w-full md:w-2/4 m-5 relative overflow-hidden models-block">
-            <NuxtLink to>
+            <NuxtLink to="/models-details">
               <h3
                 class="z-10 text-5xl px-10 py-32 text-center font-black text-primary-accent"
               >Female Models</h3>
@@ -66,7 +66,7 @@
             />
           </div>
           <div class="sm:w-full md:w-2/4 m-5 relative overflow-hidden models-block">
-            <NuxtLink to>
+            <NuxtLink to="/">
               <h3
                 class="z-10 text-5xl px-10 py-32 text-center font-black text-primary-accent"
               >Male Models</h3>
@@ -91,15 +91,17 @@
           <h1 class="title-dark text-3xl md:text-4xl font-semibold title-font">Hotly Featured</h1>
         </div>
         <div class="flex flex-wrap -m-4 max-w-6xl mx-auto">
-          <div class="p-4 lg:w-1/4 md:w-1/2">
+          <div class="p-4 lg:w-1/4 md:w-1/2 model-img">
             <div class="h-full flex flex-col items-center text-center">
-              <a data-fancybox="gallery-a" data-src="https://res.cloudinary.com/poliweb/image/upload/v1636819428/Fashen/Girls/girl-19_1920_cxnajn.webp" class="w-full">
+              <div class="overflow-hidden mb-4">
+              <a data-fancybox="gallery-a" data-src="https://res.cloudinary.com/poliweb/image/upload/c_fill,g_face:center,h_1305/v1636819428/Fashen/Girls/girl-19_1920_cxnajn.webp">
               <img
                 alt="team"
-                class="flex-shrink-0 w-full h-56 object-cover object-center mb-4"
-                src="https://res.cloudinary.com/poliweb/image/upload/c_fit,h_600,q_auto/v1636819428/Fashen/Girls/girl-19_1920_cxnajn.webp"
+                class="flex-shrink-0 w-full object-cover object-center"
+                src="https://res.cloudinary.com/poliweb/image/upload/c_fill,g_face:center,h_600,w_600/v1636819428/Fashen/Girls/girl-19_1920_cxnajn.webp"
               />
               </a>
+              </div>
               <div class="w-full">
                 <h2 class="title-font font-semibold text-2xl title-featured">Alper Kamu</h2>
                 <h3 class="text-bg-black mb-3">Height 180 cm</h3>
@@ -114,15 +116,17 @@
               </div>
             </div>
           </div>
-          <div class="p-4 lg:w-1/4 md:w-1/2">
+          <div class="p-4 lg:w-1/4 md:w-1/2 model-img">
             <div class="h-full flex flex-col items-center text-center">
-              <a data-fancybox="gallery-a" data-src="https://res.cloudinary.com/poliweb/image/upload/g_faces:center,x_0/v1636820611/Fashen/Mens/model-men-1_1920_lnnnkk.webp" class="w-full">
+              <div class="overflow-hidden mb-4">
+              <a data-fancybox="gallery-a" data-src="https://res.cloudinary.com/poliweb/image/upload/c_fill,g_face:center,h_1305/v1636820611/Fashen/Mens/model-men-1_1920_lnnnkk.webp">
               <img
                 alt="team"
-                class="flex-shrink-0 w-full h-56 object-cover object-center mb-4"
-                src="https://res.cloudinary.com/poliweb/image/upload/g_faces:center,x_0/v1636820611/Fashen/Mens/model-men-1_1920_lnnnkk.webp"
+                class="flex-shrink-0 w-full object-cover object-center"
+                src="https://res.cloudinary.com/poliweb/image/upload/c_fill,g_face:center,h_600,w_600/v1636820611/Fashen/Mens/model-men-1_1920_lnnnkk.webp"
               />
               </a>
+              </div>
               <div class="w-full">
                 <h2 class="title-font font-semibold text-2xl title-featured">Eric Moore</h2>
                 <h3 class="text-bg-black mb-3">Height 185 cm</h3>
@@ -137,15 +141,17 @@
               </div>
             </div>
           </div>
-          <div class="p-4 lg:w-1/4 md:w-1/2">
+          <div class="p-4 lg:w-1/4 md:w-1/2 model-img">
             <div class="h-full flex flex-col items-center text-center">
-              <a data-fancybox="gallery-a" data-src="https://res.cloudinary.com/poliweb/image/upload/v1636821258/Fashen/Girls/girl-21_1920_yjak8b.webp" class="w-full">
+              <div class="overflow-hidden mb-4">
+              <a data-fancybox="gallery-a" data-src="https://res.cloudinary.com/poliweb/image/upload/c_fill,g_face:center,h_1285,w_1285/v1636821258/Fashen/Girls/girl-21_1920_yjak8b.webp">
               <img
                 alt="team"
-                class="flex-shrink-0 w-full h-56 object-cover object-center mb-4"
-                src="https://res.cloudinary.com/poliweb/image/upload/v1636821258/Fashen/Girls/girl-21_1920_yjak8b.webp"
+                class="flex-shrink-0 w-full object-cover object-center"
+                src="https://res.cloudinary.com/poliweb/image/upload/c_fill,g_face:center,h_600,w_600/v1636821258/Fashen/Girls/girl-21_1920_yjak8b.webp"
               />
               </a>
+              </div>
               <div class="w-full">
                 <h2 class="title-font font-semibold text-2xl title-featured">Margaret Taylor</h2>
                 <h3 class="text-bg-black mb-3">Height 178 cm</h3>
@@ -160,15 +166,17 @@
               </div>
             </div>
           </div>
-          <div class="p-4 lg:w-1/4 md:w-1/2">
+          <div class="p-4 lg:w-1/4 md:w-1/2 model-img">
             <div class="h-full flex flex-col items-center text-center">
-              <a data-fancybox="gallery-a" data-src="https://res.cloudinary.com/poliweb/image/upload/c_crop,g_xy_center,h_1521,o_100,x_0,y_0/v1636819448/Fashen/Girls/girl-7_1920_upvkic.webp" class="w-full">
+              <div class="overflow-hidden mb-4">
+              <a data-fancybox="gallery-a" data-src="https://res.cloudinary.com/poliweb/image/upload/c_fill,g_face:center,h_1500,w_1272/v1636819448/Fashen/Girls/girl-7_1920_upvkic.webp">
               <img
                 alt="team"
-                class="flex-shrink-0 w-full h-56 object-cover object-center mb-4"
-                src="https://res.cloudinary.com/poliweb/image/upload/c_crop,g_xy_center,h_1521,o_100,x_0,y_0/v1636819448/Fashen/Girls/girl-7_1920_upvkic.webp"
+                class="flex-shrink-0 w-full object-cover object-center"
+                src="https://res.cloudinary.com/poliweb/image/upload/c_fill,g_face:center,h_600,w_600/v1636819448/Fashen/Girls/girl-7_1920_upvkic.webp"
               />
               </a>
+              </div>
               <div class="w-full">
                 <h2 class="title-font font-semibold text-2xl title-featured">Katrin Krauze</h2>
                 <h3 class="text-bg-black mb-3">Height 182 cm</h3>
