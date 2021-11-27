@@ -54,7 +54,7 @@
       <div class="container px-5 py-24 mx-auto">
         <div class="flex flex-col md:flex-row max-w-6xl mx-auto">
           <div class="sm:w-full md:w-2/4 m-5 relative overflow-hidden models-block">
-            <NuxtLink to="/models-details">
+            <NuxtLink to="/models">
               <h3
                 class="z-10 text-5xl px-10 py-32 text-center font-black text-primary-accent"
               >Female Models</h3>
