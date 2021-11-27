@@ -29,19 +29,7 @@
             </div>
             <button
               class="btn border-black inline-flex  items-center py-1 px-5 text-lg"
-            >Send
-               <svg
-                  class="w-4 h-4 ml-2"
-                  viewBox="0 0 24 24"
-                  stroke="currentColor"
-                  stroke-width="2"
-                  fill="none"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                >
-                  <path d="M5 12h14" />
-                  <path d="M12 5l7 7-7 7" />
-                </svg>
+            >Send <IconArrowBtn class="w-4 h-4 ml-2"/>
             </button>
           </div>
           <p class="text-sm mt-2 mb-8 w-full">Or call the number +7 701 721 1284.</p>
@@ -51,7 +39,10 @@
 </template>
 
 <script>
-export default {};
+import IconArrowBtn from "~/assets/icons/arrow-btn.svg?inline";
+export default {
+  components: { IconArrowBtn },
+};
 </script>
 
 <style>

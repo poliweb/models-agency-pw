@@ -47,7 +47,7 @@
                   <li class="flex flex-row gap-x-2"><IconArrowR class="w-6 h-6 arrow__color"/> Height: {{ itemsFmodel.Height }}</li>
                   <li class="flex flex-row gap-x-2"><IconArrowR class="w-6 h-6 arrow__color"/> Hair: {{ itemsFmodel.Hair }}</li>
                 </ul>
-                <button class="btn border-black inline-flex  items-center py-1 px-5 text-lg">View Profile</button>
+                <NuxtLink :to="itemsFmodel.UrlTo" class="btn border-black inline-flex  items-center py-1 px-5 text-lg">View Profile</NuxtLink>
 
               </div>
             </div>
@@ -77,6 +77,7 @@ export default {
           Born: "September 9, 1992",
           Height: "178 cm / 5’83",
           Hair: "Blonde",
+          UrlTo: "/models-details",
         },
         {
           img: "https://res.cloudinary.com/poliweb/image/upload/c_fill,g_north,w_800/v1636094319/Fashen/woman-ga_1920_qpbyxj.webp",
@@ -84,6 +85,7 @@ export default {
           Born: "October 7, 1995",
           Height: "165 cm / 5’41",
           Hair: "Blonde",
+          UrlTo: "/",
         },
         {
           img: "https://res.cloudinary.com/poliweb/image/upload/c_fill,g_north,w_800/v1636094394/Fashen/portrait_1920_e6gbn4.webp",
@@ -91,6 +93,7 @@ export default {
           Born: "October 8, 1988",
           Height: "165 cm / 5’41",
           Hair: "Rude",
+          UrlTo: "/",
         },
         {
           img: "https://res.cloudinary.com/poliweb/image/upload/c_fill,g_north_west,w_800/v1637327009/Fashen/Girls/woman-6_1920_bhyz8t.webp",
@@ -98,6 +101,7 @@ export default {
           Born: "October 8, 1998",
           Height: "165 cm / 5’41",
           Hair: "Brown",
+          UrlTo: "/",
         },
         // Next Four Models
         {
@@ -106,6 +110,7 @@ export default {
           Born: "October 8, 1998",
           Height: "185 cm / 6’06",
           Hair: "Black",
+          UrlTo: "/",
         },
         {
           img: "https://res.cloudinary.com/poliweb/image/upload/c_fill,g_center,w_800/v1636821258/Fashen/Girls/girl-21_1920_yjak8b.webp",
@@ -113,6 +118,7 @@ export default {
           Born: "October 8, 1998",
           Height: "178 cm / 5’83",
           Hair: "Rude",
+          UrlTo: "/",
         },
         {
           img: "https://res.cloudinary.com/poliweb/image/upload/c_fill,g_north,h_800,w_800/v1636819435/Fashen/Girls/girl-14_1920_npum8o.webp",
@@ -120,6 +126,7 @@ export default {
           Born: "October 8, 1998",
           Height: "165 cm / 5’41",
           Hair: "Brown",
+          UrlTo: "/",
         },
         {
           img: "https://res.cloudinary.com/poliweb/image/upload/c_fill,g_faces,h_800,w_800/v1636819432/Fashen/Girls/girl-15_1920_whdrm3.webp",
@@ -127,6 +134,7 @@ export default {
           Born: "October 8, 1998",
           Height: "165 cm / 5’41",
           Hair: "Black",
+          UrlTo: "/",
         },
       ],
     };

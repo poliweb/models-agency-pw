@@ -30,38 +30,15 @@
               href="#"
               class="btn border-black py-2.5 px-5 inline-flex items-center md:mb-2 lg:mb-0"
             >
-              Engage
-              <svg
-                class="w-4 h-4 ml-2"
-                viewBox="0 0 24 24"
-                stroke="currentColor"
-                stroke-width="2"
-                fill="none"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-              >
-                <path d="M5 12h14" />
-                <path d="M12 5l7 7-7 7" />
-              </svg>
+              Engage <IconArrowBtn class="w-4 h-4 ml-2"/>
+
             </NuxtLink>
             <NuxtLink
               to
               href="#"
               class="btn border-black py-2.5 px-5 inline-flex items-center md:mb-2 lg:mb-0"
             >
-              Send a message
-              <svg
-                class="w-4 h-4 ml-2"
-                viewBox="0 0 24 24"
-                stroke="currentColor"
-                stroke-width="2"
-                fill="none"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-              >
-                <path d="M5 12h14" />
-                <path d="M12 5l7 7-7 7" />
-              </svg>
+              Send a message <IconArrowBtn class="w-4 h-4 ml-2"/>
             </NuxtLink>
           </div>
         </div>
@@ -279,9 +256,10 @@
 
 <script>
 import IconArrowR from "~/assets/icons/arrow-sm-right.svg?inline";
+import IconArrowBtn from "~/assets/icons/arrow-btn.svg?inline";
 
 export default {
-  components: { IconArrowR },
+  components: { IconArrowR, IconArrowBtn },
   data: function () {
     return {
       CartsModels: [
