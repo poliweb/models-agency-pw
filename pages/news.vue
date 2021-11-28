@@ -16,7 +16,7 @@
         </div>
         <div class="news-text p-2.5">
           <h3 class="text-2xl title-color">You were made for love – Official Video</h3>
-          <h4 class="">by Mihai</h4>
+          <h4 class="">by Author</h4>
           <p class="">Introduction Readymade godard brooklyn, kogi shoreditch hashtag hella shaman kitsch man bun pinterest flexitarian. Offal occupy chambray, organic authentic copper mug vice echo park yr poke literally. Ugh coloring book fingerstache schlitz retro cronut man bun copper mug small batch trust fund ethical bicycle rights… </p>
           <NuxtLink to="/" class="inline-flex  items-center">Read More <IconArrowBtn class="w-4 h-4 ml-2"/></NuxtLink>
         </div>
@@ -34,7 +34,7 @@
         </div>
         <div class="news-text p-2.5">
           <h3 class="text-2xl title-color">How To prepare for a Model Casting</h3>
-          <h4 class="">by Mihai</h4>
+          <h4 class="">by Author</h4>
           <p class="">Introduction Readymade godard brooklyn, kogi shoreditch hashtag hella shaman kitsch man bun pinterest flexitarian. Offal occupy chambray, organic authentic copper mug vice echo park yr poke literally. Ugh coloring book fingerstache schlitz retro cronut man bun copper mug small batch trust fund ethical bicycle rights … </p>
           <NuxtLink to="/" class="inline-flex  items-center">Read More <IconArrowBtn class="w-4 h-4 ml-2"/></NuxtLink>
         </div>
