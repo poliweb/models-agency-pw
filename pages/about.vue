@@ -57,7 +57,7 @@
     <!-- //Section Our Story +  Header page -->
     <!-- Section ModelAgency-Fotoalbom-Fancybox -->
     <section class="body-font">
-      <div class="px-0 md:px-5 py-24 mx-auto max-w-6xl">
+      <div class="container px-5 py-24 mx-auto max-w-6xl">
         <div class="flex flex-wrap gap-5 justify-center">
           <div class="overflow-hidden model-img">
             <a data-fancybox-trigger="gallery-about" href="javascript:;">
@@ -158,8 +158,98 @@
         </div>
       </div>
     </section>
-
     <!-- //Section ModelAgency-Fotoalbom-Fancybox -->
+    <!-- Section OUR SERVICES -->
+    <section class="body-font">
+      <div class="container px-5 py-24 mx-auto max-w-6xl">
+        <div class="flex flex-wrap">
+          <div class="w-full md:w-1/3 p-4">
+            <h3 class="uppercase">Services</h3>
+            <h2
+              class="title-color title-font text-3xl md:text-4xl title-font font-semibold mb-4"
+            >Why choose us</h2>
+            <p
+              class="mb-2 leading-relaxed"
+            >Cloud bread flannel poke, flexitarian vinyl iPhone church-key shaman.</p>
+          </div>
+          <div class="w-full md:w-1/3 p-4">
+            <div class>
+              <h2 class="title-color title-font font-semibold text-2xl title-featured">Professional</h2>
+              <p
+                class="mb-2 leading-relaxed"
+              >Seamlessly visualize market positioning content through cutting-edge human capital. Intrinsicly streamline.</p>
+            </div>
+            <div class>
+              <h2 class="title-color title-font font-semibold text-2xl title-featured">Experienced</h2>
+              <p
+                class="mb-2 leading-relaxed"
+              >Seamlessly visualize market positioning content through cutting-edge human capital. Intrinsicly streamline.</p>
+            </div>
+          </div>
+          <div class="w-full md:w-1/3 p-4">
+            <div class>
+              <h2 class="title-color title-font font-semibold text-2xl title-featured">Creative</h2>
+              <p
+                class="mb-2 leading-relaxed"
+              >Seamlessly visualize market positioning content through cutting-edge human capital. Intrinsicly streamline.</p>
+            </div>
+            <div class>
+              <h2 class="title-color title-font font-semibold text-2xl title-featured">Passionate</h2>
+              <p
+                class="mb-2 leading-relaxed"
+              >Seamlessly visualize market positioning content through cutting-edge human capital. Intrinsicly streamline.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- //Section OUR SERVICES -->
+    <!-- Section FAUNDER ModelAgency -->
+    <section class="body-font">
+      <div class="container px-5 py-24 mx-auto max-w-6xl">
+        <div class="flex flex-wrap">
+          <div class="w-full md:w-1/3 text-center p-4">
+            <div class="shadow-xl p-8 h-full w-full">
+              <img
+                src="https://res.cloudinary.com/poliweb/image/upload/c_fill,g_face:center,h_150,r_100,w_150/v1636819432/Fashen/Girls/girl-16_1920_y7ylbe.webp"
+                alt="Lize Vickens"
+                class="mx-auto mb-4"
+              />
+              <h2 class="title-color title-font font-semibold text-2xl title-featured">Lize Vickens</h2>
+              <p class="mb-2 leading-relaxed">Founder of a modeling agency</p>
+              <address>
+                <a href="mailto:you@somedomain.com">you@somedomain.com</a>
+                <br />
+                <a href="tel:+1234567890">+7(701) 721-1284</a>
+              </address>
+            </div>
+          </div>
+          <div class="w-ful md:w-2/3  p-4">
+            <div class="shadow-xl p-8">
+              <h4 class="uppercase">have questions?</h4>
+              <h2
+                class="title-color title-font text-3xl md:text-4xl title-font font-semibold mb-8"
+              >Frequently Asked Questions</h2>
+              <h3 class="title-color title-font font-semibold text-2xl title-featured">What can one find in the nearby area?</h3>
+              <p
+                class="mb-2 leading-relaxed"
+              >Appropriately incentivize high-payoff models without alternative products. Credibly optimize backend innovation with virtual niche markets.</p>
+
+              <hr class="hr-separator2 mb-8 mt-2.5" />
+
+              <h3 class="title-color title-font font-semibold text-2xl title-featured">How the wage is calculated?</h3>
+              <p
+                class="mb-2 leading-relaxed"
+              >Rapidiously coordinate cross-media opportunities with top-line innovation. Interactively formulate end-to-end "outside the box" thinking for.</p>
+
+              <hr class="hr-separator2 mb-8 mt-2.5" />
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- //Section FAUNDER ModelAgency -->
   </div>
 </template>
 
