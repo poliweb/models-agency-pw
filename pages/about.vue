@@ -60,7 +60,7 @@
       <div class="px-0 md:px-5 py-24 mx-auto max-w-6xl">
         <div class="flex flex-wrap gap-5 justify-center">
           <div class="overflow-hidden model-img">
-            <a data-fancybox-trigger="gallery-b" href="javascript:;">
+            <a data-fancybox-trigger="gallery-about" href="javascript:;">
               <img
                 class="object-cover object-center"
                 src="https://res.cloudinary.com/poliweb/image/upload/c_fill,g_center,h_600,w_1152/v1638168437/Fashen/FashionWeek/fashion_week_7_wl0su7.webp"
@@ -69,7 +69,7 @@
           </div>
           <div class="overflow-hidden model-img rounded">
             <a
-              data-fancybox="gallery-b"
+              data-fancybox="gallery-about"
               href="https://res.cloudinary.com/poliweb/image/upload/c_fill,g_center,h_1279,w_1920/v1638168437/Fashen/FashionWeek/fashion_week_7_wl0su7.webp"
             >
               <img
@@ -80,7 +80,7 @@
           </div>
           <div class="overflow-hidden model-img rounded">
             <a
-              data-fancybox="gallery-b"
+              data-fancybox="gallery-about"
               href="https://res.cloudinary.com/poliweb/image/upload/c_fill,g_center,h_1281,w_1920/v1638168439/Fashen/FashionWeek/fashion_week_2_sfmgpx.webp"
             >
               <img
@@ -91,7 +91,7 @@
           </div>
           <div class="overflow-hidden model-img rounded">
             <a
-              data-fancybox="gallery-b"
+              data-fancybox="gallery-about"
               href="https://res.cloudinary.com/poliweb/image/upload/c_fill,g_center,h_1281,w_1920/v1638168437/Fashen/FashionWeek/fashion_week_3_jssinu.webp"
             >
               <img
@@ -102,7 +102,7 @@
           </div>
           <div class="overflow-hidden model-img rounded">
             <a
-              data-fancybox="gallery-b"
+              data-fancybox="gallery-about"
               href="https://res.cloudinary.com/poliweb/image/upload/c_fill,g_center,h_1282,w_1920/v1638168437/Fashen/FashionWeek/fashion_week_4_cfdjwj.webp"
             >
               <img
@@ -113,7 +113,7 @@
           </div>
           <div class="overflow-hidden model-img rounded">
             <a
-              data-fancybox="gallery-b"
+              data-fancybox="gallery-about"
               href="https://res.cloudinary.com/poliweb/image/upload/c_fill,g_center,h_1280,w_1920/v1638168438/Fashen/FashionWeek/fashion_week_5_cjgnns.webp"
             >
               <img
@@ -124,7 +124,7 @@
           </div>
           <div class="overflow-hidden model-img rounded">
             <a
-              data-fancybox="gallery-b"
+              data-fancybox="gallery-about"
               href="https://res.cloudinary.com/poliweb/image/upload/c_fill,g_center,h_1283,w_1920/v1638168437/Fashen/FashionWeek/fashion_week_6_prlbiy.webp"
             >
               <img
@@ -135,7 +135,7 @@
           </div>
           <div class="overflow-hidden model-img rounded">
             <a
-              data-fancybox="gallery-b"
+              data-fancybox="gallery-about"
               href="https://res.cloudinary.com/poliweb/image/upload/c_fill,g_center,h_1281,w_1920/v1638168438/Fashen/FashionWeek/fashion_week_8_fpfuy1.webp"
             >
               <img
@@ -146,7 +146,7 @@
           </div>
           <div class="overflow-hidden model-img rounded">
             <a
-              data-fancybox="gallery-b"
+              data-fancybox="gallery-about"
               href="https://res.cloudinary.com/poliweb/image/upload/c_fill,g_center,h_1280,w_1920/v1636096462/Fashen/catwalk_1920_dgoled.webp"
             >
               <img
