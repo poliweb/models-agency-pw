@@ -1,7 +1,22 @@
 <template>
   <section class="body-font">
+      <!-- Header page -->
+    <div class="relative">
+      <img
+        src="https://res.cloudinary.com/poliweb/image/upload/c_crop,g_face:center,h_400,w_1920/v1636094398/Fashen/girl-3_1920_cy4dnl.webp"
+        alt="blog.alt"
+        class="absolute h-full w-full object-cover z-0"
+      />
+      <div class="masck__header-page"></div>
+      <div class="container mx-auto py-28 flex flex-col place-content-center text-center">
+        <h2 class="title-dark text-5xl md:text-7xl font-bold z-10">News</h2>
+        <p
+          class="text-white leading-relaxed text-2xl px-5 z-10"
+        >Everything about fashion, beauty and life of our modeling agency.</p>
+      </div>
+    </div>
+    <!-- //Header page -->
     <div class="container px-5 py-24 mx-auto max-w-6xl">
-      <h2 class="title-color title-font text-3xl md:text-4xl title-font font-semibold mb-8">News</h2>
       <!-- Item News  -->
       <div class="items__news">
         <!-- Item News1  -->
