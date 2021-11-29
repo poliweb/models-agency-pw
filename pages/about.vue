@@ -5,7 +5,7 @@
       <!-- Header page -->
       <div class="relative">
         <img
-          src="https://res.cloudinary.com/poliweb/image/upload/c_crop,g_face:center,h_400,w_1920/v1636955920/HeroCarousel/slide-girl-face2_lwgpha.webp"
+          src="https://res.cloudinary.com/poliweb/image/upload/c_fill,g_face:center,h_400,w_1920/v1636955920/HeroCarousel/slide-girl-face2_lwgpha.webp"
           alt="About our Agency"
           class="absolute h-full w-full object-cover z-0"
         />
