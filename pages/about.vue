@@ -270,7 +270,16 @@ export default {};
   transition: background-color 0.3s;
   color: #111812a1;
 }
+
+.title-color {
+  color: var(--title-color);
+}
 .title-dark {
   color: var(--title-dark-color);
+}
+
+.hr-separator2 {
+  border-bottom: 0;
+  border-top: 4px solid var(--color-primary);
 }
 </style>
