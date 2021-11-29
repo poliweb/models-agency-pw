@@ -172,7 +172,7 @@
               class="mb-2 leading-relaxed"
             >Cloud bread flannel poke, flexitarian vinyl iPhone church-key shaman.</p>
           </div>
-          <div class="w-full md:w-1/3 p-4">
+          <div class="w-full sm:w-1/2 md:w-1/3 p-4">
             <div class>
               <h2 class="title-color title-font font-semibold text-2xl title-featured">Professional</h2>
               <p
@@ -186,7 +186,7 @@
               >Seamlessly visualize market positioning content through cutting-edge human capital. Intrinsicly streamline.</p>
             </div>
           </div>
-          <div class="w-full md:w-1/3 p-4">
+          <div class="w-full sm:w-1/2 md:w-1/3 p-4">
             <div class>
               <h2 class="title-color title-font font-semibold text-2xl title-featured">Creative</h2>
               <p
