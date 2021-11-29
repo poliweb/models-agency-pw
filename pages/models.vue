@@ -160,6 +160,9 @@ export default {
   transition: background-color 0.3s;
   color: #111812a1;
 }
+.title-dark {
+  color: var(--title-dark-color);
+}
 
 .arrow__color {
   color: var(--btn-border-black);

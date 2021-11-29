@@ -108,6 +108,22 @@ export default {
 </script>
 
 <style>
+.masck__header-page {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: var(--bg-masck);
+  height: 100%;
+  z-index: 2;
+  transition: background-color 0.3s;
+  color: #111812a1;
+}
+.title-dark {
+  color: var(--title-dark-color);
+}
+
 .items__news .items__news-item .news-foto {
   width: 100%;
 }
