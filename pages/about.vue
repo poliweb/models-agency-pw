@@ -209,7 +209,7 @@
       <div class="container px-5 py-24 mx-auto max-w-6xl">
         <div class="flex flex-wrap">
           <div class="w-full md:w-1/3 text-center p-4">
-            <div class="shadow-xl p-8 h-full w-full">
+            <div class="shadow-xl p-8 h-full w-full border-color">
               <img
                 src="https://res.cloudinary.com/poliweb/image/upload/c_fill,g_face:center,h_150,r_100,w_150/v1636819432/Fashen/Girls/girl-16_1920_y7ylbe.webp"
                 alt="Lize Vickens"
@@ -225,7 +225,7 @@
             </div>
           </div>
           <div class="w-ful md:w-2/3  p-4">
-            <div class="shadow-xl p-8">
+            <div class="shadow-xl p-8 border-color">
               <h4 class="uppercase">have questions?</h4>
               <h2
                 class="title-color title-font text-3xl md:text-4xl title-font font-semibold mb-8"
@@ -281,5 +281,9 @@ export default {};
 .hr-separator2 {
   border-bottom: 0;
   border-top: 4px solid var(--color-primary);
+}
+
+.border-color {
+  border: solid 1px var(--color-border);
 }
 </style>

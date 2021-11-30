@@ -16,6 +16,7 @@
   --arrow-bg-black: #d1bd6c;
   --color-hr-black: #9ca3af;
   --color-text-bg-black: #9ca3af;
+  --color-border: #e5e7eb;
 }
 
 .dark-mode {
@@ -35,6 +36,7 @@
   --bg-masck: #111812a1;
   --arrow-bg-black: #d1bd6c;
   --color-hr-black: #d1bd6c;
+  --color-border: #d1bd6c;
 }
 .sepia-mode {
   --color: #433422;
@@ -51,4 +53,5 @@
   --color-hr-black: #ded0bf;
   --color-text-bg-black: #f1e7d0;
   --title-featured-color: #ded0bf;
+  --color-border: #f9fafb;
 }
