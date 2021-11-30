@@ -46,4 +46,15 @@ export default {
 </script>
 
 <style>
+.btn {
+  transition: all 0.3s ease-in-out;
+}
+.border-black {
+  border: 2px solid var(--btn-border-black);
+}
+.btn:hover {
+  border: 2px solid var(--color-primary);
+  background-color: var(--color-primary);
+  color: #161616;
+}
 </style>
