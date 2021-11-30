@@ -390,11 +390,15 @@ export default {};
 .title-dark {
   color: var(--title-dark-color);
 }
-
+.title-featured {
+  color: var(--title-featured-color);
+}
 .text-bg-black {
   color: var(--color-text-bg-black);
 }
-
+.text-primary-accent {
+  color: var(--nv-primary-accent);
+}
 .bg-primary {
   background-color: var(--color-primary);
 }
