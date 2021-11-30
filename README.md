@@ -73,4 +73,6 @@ This directory contains your Vuex store files. Creating a file in this directory
 
 More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/store).
 
-[# models-agency-pw](https://pw-model-agency.netlify.app/)
+# models-agency-pw
+
+[🕸 Demo Site](https://pw-model-agency.netlify.app/)
