@@ -176,7 +176,7 @@
             >fashion category</span>
             <h3
               class="title-color text-3xl md:text-4xl title-font font-semibold mb-3"
-            >The Catalyzer</h3>
+            >What we do</h3>
             <p class="leading-relaxed mb-3">
               Photo booth fam kinfolk cold-pressed sriracha leggings jianbing
               microdosing tousled waistcoat.
@@ -271,6 +271,10 @@ img.img-fone {
 
 .text-primary-accent {
   color: var(--nv-primary-accent);
+}
+
+.text-bg-black {
+  color: var(--color-text-bg-black);
 }
 
 .bg-featured {
