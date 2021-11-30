@@ -174,13 +174,13 @@
           </div>
           <div class="w-full sm:w-1/2 md:w-1/3 p-4">
             <div class>
-              <h2 class="title-color title-font font-semibold text-2xl title-featured">Professional</h2>
+              <h2 class="title-color title-font font-semibold text-2xl">Professional</h2>
               <p
                 class="mb-2 leading-relaxed"
               >Seamlessly visualize market positioning content through cutting-edge human capital. Intrinsicly streamline.</p>
             </div>
             <div class>
-              <h2 class="title-color title-font font-semibold text-2xl title-featured">Experienced</h2>
+              <h2 class="title-color title-font font-semibold text-2xl">Experienced</h2>
               <p
                 class="mb-2 leading-relaxed"
               >Seamlessly visualize market positioning content through cutting-edge human capital. Intrinsicly streamline.</p>
@@ -188,13 +188,13 @@
           </div>
           <div class="w-full sm:w-1/2 md:w-1/3 p-4">
             <div class>
-              <h2 class="title-color title-font font-semibold text-2xl title-featured">Creative</h2>
+              <h2 class="title-color title-font font-semibold text-2xl">Creative</h2>
               <p
                 class="mb-2 leading-relaxed"
               >Seamlessly visualize market positioning content through cutting-edge human capital. Intrinsicly streamline.</p>
             </div>
             <div class>
-              <h2 class="title-color title-font font-semibold text-2xl title-featured">Passionate</h2>
+              <h2 class="title-color title-font font-semibold text-2xl">Passionate</h2>
               <p
                 class="mb-2 leading-relaxed"
               >Seamlessly visualize market positioning content through cutting-edge human capital. Intrinsicly streamline.</p>
@@ -233,7 +233,7 @@
                 class="title-color title-font text-3xl md:text-4xl title-font font-semibold mb-8"
               >Frequently Asked Questions</h2>
               <h3
-                class="title-color title-font font-semibold text-2xl title-featured"
+                class="title-color title-font font-semibold text-2xl"
               >What can one find in the nearby area?</h3>
               <p
                 class="mb-2 leading-relaxed"
@@ -242,7 +242,7 @@
               <hr class="hr-separator2 mb-8 mt-2.5" />
 
               <h3
-                class="title-color title-font font-semibold text-2xl title-featured"
+                class="title-color title-font font-semibold text-2xl"
               >How the wage is calculated?</h3>
               <p
                 class="mb-2 leading-relaxed"
