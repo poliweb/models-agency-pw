@@ -10,6 +10,7 @@
   --title-color: #0e2233;
   --title-dark-color: #fff;
   --text-featured-color: #76838d;
+  --text-contact-form: #0e2233;
   --btn-border-black: #161616;
   --btn-border-white: #fff;
   --bg-masck: #16161667;
@@ -31,6 +32,7 @@
   --title-color: #0fe195;
   --title-dark-color: #0fe195;
   --text-featured-color: #ebf4f1;
+  --text-contact-form: #0e2233;
   --btn-border-black: #d1bd6c;
   --btn-border-white: #d1bd6c;
   --bg-masck: #111812a1;
@@ -54,4 +56,5 @@
   --color-text-bg-black: #f1e7d0;
   --title-featured-color: #ded0bf;
   --color-border: #f9fafb;
+  --text-contact-form: #433422;
 }
