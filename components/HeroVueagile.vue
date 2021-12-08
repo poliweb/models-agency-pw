@@ -246,16 +246,6 @@ export default {};
   animation-duration: 1s;
   animation-fill-mode: both;
 }
-/* .slide.agile__slide--active
-  .container
-  .slide-content
-  .button-wrap
-  a:nth-child(2) {
-  animation-name: fadeInUp;
-  animation-delay: 2.5s;
-  animation-duration: 1s;
-  animation-fill-mode: both;
-} */
 
 .agile__slide--active .container .slide-content > :nth-child(4) {
   animation-delay: 1.8s;
@@ -267,4 +257,10 @@ export default {};
   opacity: 1;
 }
 /* //Animate.CSS content */
+
+@media (max-width: 640px) {
+  .slide {
+    height: 750px;
+  }
+}
 </style>
